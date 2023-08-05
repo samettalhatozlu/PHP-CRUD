@@ -5,5 +5,7 @@
 
 Açıklama: Ürünleri veri tabanına ekleyebildiğimiz, güncelleyebildiğimiz, silebildiğimiz
 ve istediğimiz ürünleri arayarak bulabildiğimiz bir web sitesi oluşturdum.
+
 Kullandığım teknolojiler: PHP 8 , Bootstrap 5 , MySQL.
+
 Kullandığım uygulamalar: VSCode, MySQL Workbench.
