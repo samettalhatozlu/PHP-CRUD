@@ -1,5 +1,5 @@
 # PHP
-Ürün Yönetimi Web Sitesi  "https://spotindustry.net/"
+Ürün Yönetimi Web Sitesi
 
 ![image](https://github.com/samettalhatozlu/PHP/assets/111143783/7ae0aace-6c8d-4ed4-a9fc-63faf4f87d4f)
 
